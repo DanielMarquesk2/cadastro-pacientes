@@ -63,7 +63,7 @@ cd frontend
 2. Rode com o pacote `serve` (instale se necessário):
 
 ```bash
-npm install serve
+npm install -g serve
 serve -l 8080 .
 ```
 
